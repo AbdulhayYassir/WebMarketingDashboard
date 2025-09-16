@@ -27,7 +27,8 @@ This dashboard helps **digital marketers and analysts** make **data-driven decis
 
 ## 📸 Preview
 *(Add screenshots of your dashboard here, for example:)*  
-![Dashboard Preview](screenshot.png)  
+![Dashboard Preview](<img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/a8c28bb6-f67b-4d0a-8d38-d3dbd3bb2345" />
+)  
 
 ---
 
