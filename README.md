@@ -25,11 +25,6 @@ This dashboard helps **digital marketers and analysts** make **data-driven decis
 
 ---
 
-## 📸 Preview
-
-![Dashboard Preview]()  
-
----
 
 ## 🏷️ Topics
 `PowerBI` `Dashboard` `Data-Visualization` `Marketing-Analytics` `Business-Intelligence` `Web-Analytics`
